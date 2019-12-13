@@ -1,7 +1,7 @@
 # Chat App - Rapport
 
 Mohamed NIZAMUDDIN
-Sersi SKANDER
+Skander SERSI
 
 Le but du projet est de faire le front d'une application de chat instantanné en elm.
 
@@ -28,14 +28,14 @@ Pour la vue nous avons utilisés elm-bootstrap et du css.
 
 ## Fonctionnalités
 Nous avons réalisés tout les objectifs obligatoires
-Se connecter sur l'applicaiton avec un username
-Pouvoir envoyer des messages et voir les message des autres sous le format suivant : "[username]:content"
-Recevoir une notification quand quelqu'un se connecte
+- Se connecter sur l'applicaiton avec un username
+- Pouvoir envoyer des messages et voir les message des autres sous le format s uivant : "[username]:content"
+- Recevoir une notification quand quelqu'un se connecte
 
 Nous avons également rajoutez quelques fonctionnalités suplementaires comme:
--se connectez en anonyme
--un format different quand on reçoit un message privés
--Ne pas prendre en compte le message si c'est un message vide
+- Se connectez en anonyme
+- Un format different quand on reçoit un message privés
+- Ne pas prendre en compte le message si c'est un message vide
 - Voir la liste des utilisateurs connectés.
 
 ## Utilisation
