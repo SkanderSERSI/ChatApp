@@ -1,5 +1,8 @@
 # Chat App - Rapport
 
+Mohamed NIZAMUDDIN
+Sersi SKANDER
+
 Le but du projet est de faire le front d'une application de chat instantanné en elm.
 
 Nous avons décidé dans notre modele de stocker la liste des Utilisateurs connectés (User), la liste des messages reçus (ReceivedMessage), un message de type String correspondant au message que l'on envoi a tout le monde, un username de type String qui correspond a notre pseudo dans le chat et un booleen connected qui permet de savoir si on est connecté ou pas.
