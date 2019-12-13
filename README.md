@@ -19,8 +19,8 @@ Nous avons plusieurs type de Commande que l'on envoi/recoit en fonction des inte
 - GotUsers quand on recupere la liste des utilisateurs connectés
 
 Globalement on effectue Deux requetes post dans notre chat:
--Une requete pour l'envoi de message
--Une requete pour recuper les utilisateurs connectés
+- Une requete pour l'envoi de message
+- Une requete pour recuper les utilisateurs connectés
 
 Nous avons des encodeurs et des decodeurs de messages pour l'envoi de message ou decoder les messages reçus.
 
